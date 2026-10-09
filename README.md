@@ -7,14 +7,19 @@
 
 ---
 
-# 🚀 Práctica 04: Control y arreglos.
+# 🚀 Práctica 05: Autómaatas Celulares.
 
 ### 👨‍🏫 Equipo docente
 * **Profesor:** Manuel Alcántara Juárez.
 * **Ayudante de teoría:** Ángel Renato Zamudio Malagón.
 * **Ayudante de laboratorio:** Rodrigo Alejandro Sánchez Morales.
 
-### 🎓 Datos del alumno
-* **Nombre:** [Escribe tu nombre completo]. 📝
-* **Número de cuenta:** [Escribe tu número de cuenta]. 🔢
-* **Correo institucional:** [Escribe tu correo institucional]. 🏫
+### 🎓 Datos del alumno 1
+* **Nombre 1:** [Escribe tu nombre completo]. 📝
+* **Número de cuenta 1:** [Escribe tu número de cuenta]. 🔢
+* **Correo institucional 1:** [Escribe tu correo institucional]. 🏫
+
+### 🎓 Datos del alumno 2
+* **Nombre 2:** [Escribe tu nombre completo]. 📝
+* **Número de cuenta 2:** [Escribe tu número de cuenta]. 🔢
+* **Correo institucional 2:** [Escribe tu correo institucional]. 🏫
